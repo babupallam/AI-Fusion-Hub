@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 /Msc_Research_2025/02_CLIP (Contrastive_Language_Image_Pretraining)/Related Papers to CLIP
 /Msc_Research_2025/04_CLIP_Literature_Review/Related Papers to CLIP
+/Msc_Research_2025/04_CLIP_Literature_Review/referedPapers
+/Msc_Research_2025/05_Adapting CLIP for Person Re-Identification (Re-ID) using Hand Images/referencePapers
